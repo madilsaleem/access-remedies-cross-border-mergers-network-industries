@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this working paper, please cite it as below."
+title: "Access Remedies for Cross-Border Mergers in Network Industries"
+type: manuscript
+authors:
+  - family-names: Saleem
+    given-names: Muhammad Adil
+    email: adilsaleem233@gmail.com
+    affiliation: "School of Economics and Finance, Xi'an Jiaotong University, China; Pakhtunkhwa Economic Policy Research Institute (PEPRI), Abdul Wali Khan University, Mardan, Pakistan"
+year: 2026
+abstract: "A competition-economics model of access and interoperability remedies for cross-border mergers in network industries."
+keywords:
+  - merger remedies
+  - access remedies
+  - interoperability
+  - network effects
+  - cross-border mergers
+  - competition policy
+license: "All rights reserved"
